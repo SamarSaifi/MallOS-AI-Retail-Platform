@@ -202,7 +202,6 @@ npm run build
 ## 🌐 Deployment
 
 - Vercel  
-- Netlify  
 
 ---
 
